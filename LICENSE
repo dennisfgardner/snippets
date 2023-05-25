@@ -1,3 +1,14 @@
+LICENSE
+
+I use some open source code in these snippets that have their own
+licenses. For example, the xml input/output snippet uses code with
+a zlib license. With other's code, I keep the license info with their
+code.
+
+The following UNLICENSE only applies to my code in this repo.
+
+UNLICENSE text below.
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or

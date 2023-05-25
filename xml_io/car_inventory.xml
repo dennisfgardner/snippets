@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <type>Sedan</type>
+        <EV>True</EV>
+    </car>
+    <car>
+        <type>SUV</type>
+        <EV>False</EV>
+    </car>
+</cars>
